@@ -15,6 +15,7 @@ div {
   padding: 2px;
   display: flex;
   flex-direction: column;
+  min-width: 230px;
 }
 
 .task {
@@ -48,5 +49,5 @@ div {
 }
 
 .done {
-    background: #14892c;
+  background: #14892c;
 }
